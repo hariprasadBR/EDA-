@@ -44,3 +44,19 @@ In other words, the company wants to understand the driving factors (or driver v
 - matplotlib
 - seaborn
 
+charts used for visualization
+- bar chart
+- pie chart
+- histogram for continuos variable
+- boxplot
+- scatter plot
+- heatmap
+
+# step
+- loading the data.
+- finding missimg values
+- finding the outliear
+- dealing with missing values in categorical and numerical  columns.
+- dealing with outliears
+- modifying the continous variables 
+- plotting the various graph and finding inferenceses

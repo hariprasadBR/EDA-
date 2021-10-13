@@ -42,5 +42,5 @@ In other words, the company wants to understand the driving factors (or driver v
 - pandas
 - numpy
 - matplotlib
-- seborn
+- seaborn
 
